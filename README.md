@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-<h1 align="center">Read Me</h1>
+Deployed in Vercel: [https://book-reading-list-7763.vercel.app/](https://book-reading-list-7763.vercel.app/)
 
 ## Getting Started
 
@@ -50,3 +50,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Joseph Salen - [LinkedIn](https://www.linkedin.com/in/salenjs/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
